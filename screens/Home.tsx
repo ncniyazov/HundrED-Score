@@ -40,7 +40,7 @@ const Home = () => {
           <Animatable.Text animation="zoomIn" iterationCount={1} duration={1000} style={[styles.yarimllkVLlk2, styles.yarimllkVLlkLayout]}>
           ED
         </Animatable.Text>
-          <Animatable.Text animation="zoomInLeft" iterationCount={1} duration={1200} style={[styles.yarimllkVLlk3, styles.yarimllkVLlkLayout]}>
+          <Animatable.Text animation="zoomInLeft" iterationCount={1} duration={1201} style={[styles.yarimllkVLlk3, styles.yarimllkVLlkLayout]}>
            Score
         </Animatable.Text>
         </View>
